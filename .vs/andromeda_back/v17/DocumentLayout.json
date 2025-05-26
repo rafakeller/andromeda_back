@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cve14412\\OneDrive - Caixa Vida e Previd\u00EAncia\\Documents\\projetos\\andromeda_back\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3D7A76-AF22-459E-B3DC-4457EEE0A247}|andromeda_back.csproj|c:\\users\\cve14412\\onedrive - caixa vida e previd\u00EAncia\\documents\\projetos\\andromeda_back\\services\\produtosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A3D7A76-AF22-459E-B3DC-4457EEE0A247}|andromeda_back.csproj|solutionrelative:services\\produtosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3D7A76-AF22-459E-B3DC-4457EEE0A247}|andromeda_back.csproj|c:\\users\\cve14412\\onedrive - caixa vida e previd\u00EAncia\\documents\\projetos\\andromeda_back\\andromeda_back.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9A3D7A76-AF22-459E-B3DC-4457EEE0A247}|andromeda_back.csproj|solutionrelative:andromeda_back.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3D7A76-AF22-459E-B3DC-4457EEE0A247}|andromeda_back.csproj|c:\\users\\cve14412\\onedrive - caixa vida e previd\u00EAncia\\documents\\projetos\\andromeda_back\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A3D7A76-AF22-459E-B3DC-4457EEE0A247}|andromeda_back.csproj|solutionrelative:models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3D7A76-AF22-459E-B3DC-4457EEE0A247}|andromeda_back.csproj|c:\\users\\cve14412\\onedrive - caixa vida e previd\u00EAncia\\documents\\projetos\\andromeda_back\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A3D7A76-AF22-459E-B3DC-4457EEE0A247}|andromeda_back.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A3D7A76-AF22-459E-B3DC-4457EEE0A247}|andromeda_back.csproj|c:\\users\\cve14412\\onedrive - caixa vida e previd\u00EAncia\\documents\\projetos\\andromeda_back\\andromeda_back.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{9A3D7A76-AF22-459E-B3DC-4457EEE0A247}|andromeda_back.csproj|solutionrelative:andromeda_back.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\cve14412\\OneDrive - Caixa Vida e Previd\u00EAncia\\Documents\\projetos\\andromeda_back\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\cve14412\\OneDrive - Caixa Vida e Previd\u00EAncia\\Documents\\projetos\\andromeda_back\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwAYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:52:19.853Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutosService.cs",
+              "DocumentMoniker": "C:\\Users\\cve14412\\OneDrive - Caixa Vida e Previd\u00EAncia\\Documents\\projetos\\andromeda_back\\Services\\ProdutosService.cs",
+              "RelativeDocumentMoniker": "Services\\ProdutosService.cs",
+              "ToolTip": "C:\\Users\\cve14412\\OneDrive - Caixa Vida e Previd\u00EAncia\\Documents\\projetos\\andromeda_back\\Services\\ProdutosService.cs",
+              "RelativeToolTip": "Services\\ProdutosService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T13:36:35.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "andromeda_back",
+              "DocumentMoniker": "C:\\Users\\cve14412\\OneDrive - Caixa Vida e Previd\u00EAncia\\Documents\\projetos\\andromeda_back\\andromeda_back.csproj",
+              "RelativeDocumentMoniker": "andromeda_back.csproj",
+              "ToolTip": "C:\\Users\\cve14412\\OneDrive - Caixa Vida e Previd\u00EAncia\\Documents\\projetos\\andromeda_back\\andromeda_back.csproj",
+              "RelativeToolTip": "andromeda_back.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-08T13:35:24.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\cve14412\\OneDrive - Caixa Vida e Previd\u00EAncia\\Documents\\projetos\\andromeda_back\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\cve14412\\OneDrive - Caixa Vida e Previd\u00EAncia\\Documents\\projetos\\andromeda_back\\Models\\Produto.cs",
+              "RelativeToolTip": "Models\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T13:34:07.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "andromeda_back.http",
+              "DocumentMoniker": "C:\\Users\\cve14412\\OneDrive - Caixa Vida e Previd\u00EAncia\\Documents\\projetos\\andromeda_back\\andromeda_back.http",
+              "RelativeDocumentMoniker": "andromeda_back.http",
+              "ToolTip": "C:\\Users\\cve14412\\OneDrive - Caixa Vida e Previd\u00EAncia\\Documents\\projetos\\andromeda_back\\andromeda_back.http",
+              "RelativeToolTip": "andromeda_back.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-08T12:33:29.145Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

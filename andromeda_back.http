@@ -1,0 +1,6 @@
+@andromeda_back_HostAddress = http://localhost:5282
+
+GET {{andromeda_back_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
